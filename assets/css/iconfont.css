@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'iconfont';
-  src:  url('../fonts/icomoon.eot?2wqjzd');
-  src:  url('../fonts/icomoon.eot?2wqjzd') format('embedded-opentype'),
-    url('../fonts/icomoon.ttf?2wqjzd') format('truetype'),
-    url('../fonts/icomoon.woff?2wqjzd') format('woff'),
-    url('../fonts/icomoon.svg?2wqjzd') format('svg');
+  src:  url('../fonts/icomoon.eot');
+  src:  url('../fonts/icomoon.eot?') format('embedded-opentype'),
+    url('../fonts/icomoon.ttf') format('truetype'),
+    url('../fonts/icomoon.woff') format('woff'),
+    url('../fonts/icomoon.svg') format('svg');
   font-weight: normal;
   font-style: normal;
 }
